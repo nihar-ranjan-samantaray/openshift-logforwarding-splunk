@@ -21,10 +21,6 @@ The following prerequisites must be satisfied prior to deploying this integratio
   * [Helm](https://helm.s/)
   * [OpenSSL](https://www.openssl.org) (Optional)
 
-## Components
-
-The primary assets contained within this repository is a Helm Chart to deploy LogForwarding. Please refer to the [values.yaml](https://github.com/redhat-cop/helm-charts/blob/master/charts/openshift-logforwarding-splunk/values.yaml) file for the customizing the installation.
-
 ### SSL Communication
 
 #### Fluentd
